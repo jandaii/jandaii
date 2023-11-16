@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Xuezhen!! Welcome to my Github Page!
+- 🌱 I’m currently learning in Carnegie Mellon University in Information Systems and Management
+- 😄 Pronouns: She/Her/Hers
+- 💬 More about me: [Xuezhen Dai](https://www.linkedin.com/in/xuezhen-dai/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jandaii&layout=compact)](https://github.com/jandaii/github-readme-stats)
