@@ -21,4 +21,3 @@ I'm Xuezhen!! Welcome to my Github Page!
 - 💬 More about me: [Xuezhen Dai](https://www.linkedin.com/in/xuezhen-dai/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jandaii&layout=compact)](https://github.com/jandaii/github-readme-stats)
-![Xuezhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandaii&count_private=true)
